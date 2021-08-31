@@ -9,6 +9,10 @@ Here are some ideas to get you started:
 
 ## Skills and Experience
 <img src="https://github.com/jongin1004/jongin1004/blob/main/media/Vue.png" width="32" />
+<img src="https://github.com/jongin1004/jongin1004/blob/main/media/PHP.png" width="32" />
+<img src="https://github.com/jongin1004/jongin1004/blob/main/media/Laravel.png" width="32" />
+<img src="https://github.com/jongin1004/jongin1004/blob/main/media/AWS.png" width="32" />
+<img src="https://github.com/jongin1004/jongin1004/blob/main/media/Python.png" width="32" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongin1004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
