@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ## Skills and Experience
 * 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongin1004&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongin1004&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
