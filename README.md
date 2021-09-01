@@ -15,8 +15,16 @@
 <img src="https://github.com/jongin1004/jongin1004/blob/main/media/Laravel.png" width="32" />
 <img src="https://github.com/jongin1004/jongin1004/blob/main/media/AWS.png" width="32" />
 <img src="https://github.com/jongin1004/jongin1004/blob/main/media/Python.png" width="32" /> -->
+## Skills and Experience
 
- [![Tech Blog Badge](http://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)]
+![PHP Badge](http://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)
+![Laravel Badge](http://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white)
+![Python Badge](http://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Vue.js Badge](http://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
+![MySQL Badge](http://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![HTML5 Badge](http://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![Amazon AWS Badge](http://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=AWS&logoColor=white)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongin1004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
