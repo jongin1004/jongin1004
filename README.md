@@ -26,6 +26,8 @@
 ![Amazon AWS Badge](http://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=AWS&logoColor=white)
 
 
+## GitHub Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongin1004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongin1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,6 +35,7 @@
 
 
 ## Personal Project - To Do List 
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65009016/131626790-f08ab2c7-1124-471e-8f73-555417896646.gif)
 
 
