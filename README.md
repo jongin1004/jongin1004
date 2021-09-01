@@ -23,7 +23,7 @@
 ![Vue.js Badge](http://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
 ![MySQL Badge](http://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![HTML5 Badge](http://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![Amazon AWS Badge](http://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=AWS&logoColor=white)
+![Amazon AWS Badge](http://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white)
 
 
 ## GitHub Stats
