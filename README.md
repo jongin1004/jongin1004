@@ -6,6 +6,7 @@
 
 - <a href="https://bill1224.tistory.com/312">Laravel과 Vue를 이용해서 나만의 To Do List 만들기</a>
 - <a href="https://bill1224.tistory.com/296">AWS로 간단하게 인공지능(TTS) 블로그 만들기</a>
+- - <a href="https://bill1224.tistory.com/322">Ruby on Rails로 사이트 만들기</a>
 - <a href="https://bill1224.tistory.com/259">Python - django로 홈페이지 만들기</a>
 - <a href="https://bill1224.tistory.com/267">크롬으로 검색할 때, 알아두면 좋은 단축키 모음</a>
   
