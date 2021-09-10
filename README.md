@@ -1,6 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🌱 I’m currently learning PHP(Laravel) and Vue.js
+- 🌱 I’m currently learning ["Laravel", "Ruby on Rails", "VueJS"].
+
 
 ## My Blog
 
