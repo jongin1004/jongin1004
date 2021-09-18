@@ -6,6 +6,7 @@
 ## My Blog
 
 - <a href="https://bill1224.tistory.com/312">Laravel과 Vue를 이용해서 나만의 To Do List 만들기</a>
+- <a href="https://bill1224.tistory.com/328">Ruby on Rails - 유용한 라이브러리 사용방법</a>
 - <a href="https://bill1224.tistory.com/296">AWS로 간단하게 인공지능(TTS) 블로그 만들기</a>
 - <a href="https://bill1224.tistory.com/323">Ruby on Rails -CRUD 구현</a>
 - <a href="https://bill1224.tistory.com/259">Python - django로 홈페이지 만들기</a>
