@@ -21,8 +21,7 @@ Portfolio Web Site URL - http://118.67.135.67/
 
 ![PHP Badge](http://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)
 ![Laravel Badge](http://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white)
-![Ruby Badge](http://img.shields.io/badge/Ruby-777BB4.svg?&style=for-the-badge&logo=Ruby&logoColor=white)
-![RubyonRails Badge](http://img.shields.io/badge/RubyonRails-FF2D20.svg?&style=for-the-badge&logo=RubyonRails&logoColor=white)
+![Java Badge](http://img.shields.io/badge/Java-777BB4.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python Badge](http://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Vue.js Badge](http://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
 ![MySQL Badge](http://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
