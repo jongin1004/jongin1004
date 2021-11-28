@@ -12,6 +12,7 @@
 - <a href="https://bill1224.tistory.com/340">CentOs에서 nginx서버 설치하고, 실행해보기</a>
 - <a href="https://bill1224.tistory.com/323">Ruby on Rails -CRUD 구현</a>
 - <a href="https://bill1224.tistory.com/259">Python - django로 홈페이지 만들기</a>
+- <a href="https://bill1224.tistory.com/248">Python - Tkinter Project</a>
 - <a href="https://bill1224.tistory.com/267">크롬으로 검색할 때, 알아두면 좋은 단축키 모음</a>
   
 
