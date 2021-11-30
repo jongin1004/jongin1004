@@ -5,7 +5,7 @@
 
 
 ## My Blog
-
+- <a href="https://bill1224.tistory.com/349">[DB] SQL-99 표준 문법을 이용한 조인</a>
 - <a href="https://bill1224.tistory.com/348">[DB]등가 조인, 비등가 조인, 자체 조인, 외부 조인</a>
 - <a href="https://bill1224.tistory.com/312">Laravel과 Vue를 이용해서 나만의 To Do List 만들기</a>
 - <a href="https://bill1224.tistory.com/328">Ruby on Rails - 유용한 라이브러리 사용방법</a>
