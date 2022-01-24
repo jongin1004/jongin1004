@@ -5,6 +5,7 @@
 
 
 ## My Blog
+- <a href="https://bill1224.tistory.com/378">[ Python ] requests를 이용해 웹 크롤링한 뒤에 파일로 저장하기</a>
 - <a href="https://bill1224.tistory.com/356">[ docker ] WordPress 환경 구축하기 (2)</a>
 - <a href="https://bill1224.tistory.com/355">[ docker ] WordPress 환경 구축하기</a>
 - <a href="https://bill1224.tistory.com/354">CodeIgniter 4 - model을 이용해서 DB에 있는 Data가져오기</a>
