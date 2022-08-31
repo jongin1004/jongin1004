@@ -40,5 +40,5 @@
 
 ## Personal Project - To Do List 
 
-// ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65009016/131626790-f08ab2c7-1124-471e-8f73-555417896646.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/65009016/131626790-f08ab2c7-1124-471e-8f73-555417896646.gif)
 
