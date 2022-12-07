@@ -21,9 +21,9 @@
 ## Skills and Experience
 
 ![PHP Badge](http://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)
-![Codeigniter Badge](http://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=Codeigniter&logoColor=white)
+![Codeigniter Badge](http://img.shields.io/badge/Codeigniter-FF2D20.svg?&style=for-the-badge&logo=Codeigniter&logoColor=white)
 ![Laravel Badge](http://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white)
-![Javascript Badge](http://img.shields.io/badge/Java-777BB4.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
+![Javascript Badge](http://img.shields.io/badge/Javascript-777BB4.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
 ![Python Badge](http://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Vue.js Badge](http://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
 ![MySQL Badge](http://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
