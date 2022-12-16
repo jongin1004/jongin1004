@@ -5,6 +5,7 @@
 
 
 ## My Blog
+- <a href="https://bill1224.tistory.com/432">[ DB ] Docker를 이용한 MySQL8.0설치 및 설정
 - <a href="https://bill1224.tistory.com/409">[ PHP ] PHPExcel 를 이용해서 xlsx파일 읽기</a>
 - <a href="https://bill1224.tistory.com/378">[ Python ] requests를 이용해 웹 크롤링한 뒤에 파일로 저장하기</a>
 - <a href="https://bill1224.tistory.com/355">[ docker ] WordPress 환경 구축하기</a>
